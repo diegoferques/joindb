@@ -1,4 +1,7 @@
+.mvn/
+.idea/
 target/
+join.zip
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
